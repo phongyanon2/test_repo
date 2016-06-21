@@ -6,4 +6,4 @@ def plus(a, b):
 	pass
 
 def multi(a, b):
-	pass
+	return a*b
