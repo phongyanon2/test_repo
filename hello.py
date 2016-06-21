@@ -10,3 +10,6 @@ def multi(a, b):
 
 print multi(3, 2)
 print plus(4, 5)
+
+def devide(a, b):
+	pass
