@@ -1,11 +1,12 @@
 import os, sys
 
 print "hello world"
-
+print "test using git."
 def plus(a, b):
-	pass
+	return a+b
 
 def multi(a, b):
 	return a*b
 
 print multi(3, 2)
+
