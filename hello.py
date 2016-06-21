@@ -9,4 +9,4 @@ def multi(a, b):
 	return a*b
 
 print multi(3, 2)
-
+print plus(4, 5)
