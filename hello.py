@@ -1,5 +1,5 @@
 import os, sys
-
+import random
 print "hello world"
 print "test using git."
 def plus(a, b):
